@@ -1,0 +1,76 @@
+{
+  "dictionary": [
+    {
+      "tag": "greeting",
+      "patterns": ["Ćao", "Cao", "Zdravo", "Dobar dan"],
+      "responses": [
+        "Zdravo :-)",
+        "Pozdrav, kako vam mogu pomoći",
+        "Zdravo, šta mogu da učinim za vas?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Zbogom",
+        "Pozdrav!",
+        "Vidimo se kasnije",
+        "Doviđenja",
+        "Dovidjenja"
+      ],
+      "responses": [
+        "Vidimo se kasnije, hvala na poseti!",
+        "Želim Vam prijatan dan",
+        "Ćao! Svratite nam opet!"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Hvala",
+        "Hvala Vam",
+        "Hvala ti",
+        "To je bilo korisno",
+        "Hvala puno!",
+        "Hvala Vam puno!"
+      ],
+      "responses": ["Nema na čemu!", "Uvek!", "Zadovoljstvo je moje!"]
+    },
+    {
+      "tag": "faculty",
+      "patterns": [
+        "Kada je osnovan fakultet organizcionih nauka?",
+        "Kada je osnovan FON?",
+        "Kog datuma je osnovan FON",
+        "Kada datuma je osnovan fakultet organizcionih nauka?"
+      ],
+      "responses": [
+        "FON je osnovan 6. maja 1971. godine",
+        "Fakultet organizacionih nauka je osnovan 6. maja 1971. godine"
+      ]
+    },
+    {
+      "tag": "department",
+      "patterns": [
+        "Koji smerovi postoje na fakultetu?",
+        "Na koje smerove se mogu upisati?",
+        "Da li imate različite smerove studija?"
+      ],
+      "responses": [
+        "Smerovi na osnovnim studijama jesu: 'Informacioni sistemi i tehnologije' i 'Menadžment i organizacija'"
+      ]
+    },
+    {
+      "tag": "exam-application",
+      "patterns": [
+        "Koliko košta prijava ispita na osnovnim studijama?",
+        "Koliko kosta prijava ispita na osnovnim studijama?",
+        "Koja je cena prijave ispita na osnovnim studijama?",
+        "Koliko košta prijava ispita?",
+        "Koliko kosta prijava ispita?",
+        "Koja je cena prijave ispita?"
+      ],
+      "responses": ["Cena prijave ispita je 1200 RSD"]
+    }
+  ]
+}
